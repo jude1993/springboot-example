@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 package com.jude1993.mongodb.controller;
 
 import com.alibaba.fastjson.JSONObject;
 import com.jude1993.mongodb.beans.Author;
 import com.jude1993.mongodb.service.AuthorService;
+=======
+package com.jude1993.controller;
+
+import com.alibaba.fastjson.JSONObject;
+import com.jude1993.beans.Author;
+import com.jude1993.service.AuthorService;
+>>>>>>> 48495ea645d6c1464f082cf6e83fb46949a7cbba
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

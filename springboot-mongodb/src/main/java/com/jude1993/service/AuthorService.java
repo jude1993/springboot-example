@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 package com.jude1993.mongodb.service;
 
 import com.jude1993.mongodb.beans.Author;
 import com.jude1993.mongodb.dao.AuthorDao;
+=======
+package com.jude1993.service;
+
+import com.jude1993.beans.Author;
+import com.jude1993.dao.AuthorDao;
+>>>>>>> 48495ea645d6c1464f082cf6e83fb46949a7cbba
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

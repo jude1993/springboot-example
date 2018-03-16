@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 package com.jude1993.mongodb.beans;
+=======
+package com.jude1993.beans;
+>>>>>>> 48495ea645d6c1464f082cf6e83fb46949a7cbba
 
 import lombok.Getter;
 import lombok.Setter;
