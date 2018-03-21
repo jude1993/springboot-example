@@ -1,4 +1,4 @@
-package main.java.crawl;
+package com.jude1993.utils;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
