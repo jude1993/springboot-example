@@ -12,6 +12,7 @@
         <module>springboot-jpa</module>
         <module>springbootmy-batis</module>
         <module>jsoup</module>
+        <module>redis-cache</module>
     </modules>
 
     <parent>
@@ -55,6 +56,11 @@
             <groupId>org.mybatis</groupId>
             <artifactId>mybatis</artifactId>
             <version>3.4.2</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>RELEASE</version>
         </dependency>
     </dependencies>
 </project>
